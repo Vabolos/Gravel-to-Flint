@@ -1,0 +1,4 @@
+name: Gravel-to-Flint
+version: '${project.version}'
+main: mod.graveltoflint.Gravel_to_Flint
+api-version: '1.21'
