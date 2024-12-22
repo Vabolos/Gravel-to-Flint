@@ -22,7 +22,7 @@ Result: 1 Flint
 
 ## Installation
 
-1. Download the latest version of the plugin from the [Releases](https://github.com/your-repo/flint-from-gravel/releases) page.
+1. Download the latest version of the plugin from the [Releases](https://github.com/Vabolos/Gravel-to-Flint/releases) page.
 2. Place the downloaded `.jar` file into the `plugins` folder of your Spigot or PaperMC server.
 3. Restart your server.
 4. Enjoy the new crafting recipe!
@@ -70,7 +70,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue in the [GitHub repository](https://github.com/your-repo/flint-from-gravel/issues).
+If you encounter any issues or have questions, please open an issue in the [GitHub repository](https://github.com/Vabolos/flint-from-gravel/issues).
 
 ---
 
